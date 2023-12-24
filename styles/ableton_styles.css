@@ -61,7 +61,7 @@ a img {
 }
 
 #main-image img {
-    padding: 20px 118px 118px 118px;
+    padding: 20px 7.375% 118px 7.375%;
     max-width: 100%;
     width: auto;
     height: auto;
@@ -365,7 +365,7 @@ select {
         height: 40vw;
         max-width: 640px; 
         max-height: 640px;
-        background-image: url(./images/content/27.jpg);
+        background-image: url(../assets/ableton-images/content/27.jpg);
         background-position: left center;
         background-size: 150% auto;
         /* background-size: contain;
@@ -395,7 +395,7 @@ select {
         height: calc(80vw * 2 / 3);
         /* max-width: 640px; 
         max-height: 640px; */
-        background-image: url(./images/content/27.jpg);
+        background-image: url(../assets/ableton-images/content/27.jpg);
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
